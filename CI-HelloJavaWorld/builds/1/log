@@ -1,0 +1,23 @@
+Started by user [8mha:////4DMFmn6H6QU/0RKUPLPqCDxqhFpgS3uaZWz06446/JXyAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace C:\Users\Vered\.jenkins\workspace\CI-HelloJavaWorld
+[CI-HelloJavaWorld] $ cmd /c call C:\Users\Vered\AppData\Local\Temp\jenkins7356434416183904225.bat
+
+C:\Users\Vered\.jenkins\workspace\CI-HelloJavaWorld>cd C:\Users\Vered 
+
+C:\Users\Vered>javac Hello.java 
+
+C:\Users\Vered>java Hello 
+Hello World...1
+Hello World...2
+Hello World...3
+Hello World...4
+Hello World...5
+Hello World...6
+Hello World...7
+Hello World...8
+Hello World...9
+Hello World...10
+
+C:\Users\Vered>exit 0 
+Finished: SUCCESS
